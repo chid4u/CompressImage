@@ -1,0 +1,8 @@
+{
+    "@react-native-community/async-storage": "1.12.1",
+    "react-native-device-info": "8.7.1",
+    "react-native-image-picker": "5.0.1",
+    "react-native-localize": "1.4.2",
+    "react-native-permissions": "3.3.1",
+    "react-native-compressor": "9.8.1"
+}
